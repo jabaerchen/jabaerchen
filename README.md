@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jan          
 - 👀 I’m interested in climate change
 - 🌱 I’m currently learning node
-- 📫 How to reach me 📧 jabaerchen@gmail.com
+- 📫 How to reach me 
